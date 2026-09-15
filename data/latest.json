@@ -1,15 +1,1989 @@
 {
-  "generatedAt": null,
-  "totalCount": 0,
-  "fetchedCount": 0,
+  "generatedAt": "2026-09-15T02:19:23.321Z",
+  "totalCount": 151,
+  "fetchedCount": 151,
   "summary": {
-    "uniqueCompanies": 0,
-    "uniqueCountries": 0,
-    "uniqueIngredients": 0,
-    "topCompanies": [],
-    "topCountries": [],
-    "topIngredients": [],
-    "recent": []
+    "uniqueCompanies": 2,
+    "uniqueCountries": 12,
+    "uniqueIngredients": 129,
+    "topCompanies": [
+      {
+        "name": "㈜하이플",
+        "count": 150
+      },
+      {
+        "name": "하이플생명과학(주)",
+        "count": 1
+      }
+    ],
+    "topCountries": [
+      {
+        "name": "인도",
+        "count": 74
+      },
+      {
+        "name": "중국",
+        "count": 67
+      },
+      {
+        "name": "대만",
+        "count": 6
+      },
+      {
+        "name": "이탈리아",
+        "count": 4
+      },
+      {
+        "name": "스위스",
+        "count": 2
+      },
+      {
+        "name": "우크라이나",
+        "count": 1
+      },
+      {
+        "name": "체코공화국",
+        "count": 1
+      },
+      {
+        "name": "말레이지아",
+        "count": 1
+      },
+      {
+        "name": "폴란드",
+        "count": 1
+      },
+      {
+        "name": "싱가포르",
+        "count": 1
+      }
+    ],
+    "topIngredients": [
+      {
+        "name": "레바미피드",
+        "count": 3
+      },
+      {
+        "name": "암로디핀베실산염",
+        "count": 2
+      },
+      {
+        "name": "네비보롤염산염",
+        "count": 2
+      },
+      {
+        "name": "클로베타솔프로피오네이트",
+        "count": 2
+      },
+      {
+        "name": "트리암시놀론아세토니드",
+        "count": 2
+      },
+      {
+        "name": "토피라메이트",
+        "count": 2
+      },
+      {
+        "name": "레보플록사신수화물",
+        "count": 2
+      },
+      {
+        "name": "아세트아미노펜",
+        "count": 2
+      },
+      {
+        "name": "트리메부틴말레산염",
+        "count": 2
+      },
+      {
+        "name": "도네페질염산염",
+        "count": 2
+      }
+    ],
+    "recent": [
+      {
+        "DMF_PERMIT_NO": "수30-12-ND",
+        "INGR_KOR_NAME": "에베로리무스",
+        "ENTP_NAME": "㈜하이플",
+        "MNFCTR_NAME": "Biocon Limited",
+        "MNFCTR_PLACE": "Special Economic Zone, Plot No. 2, 3, 4 & 5, Phase IV, Bommasandra- Jigani Link Road, Bommasandra Post, Bengaluru-560 099, India",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-09-09",
+        "BIZRNO": "4338600179",
+        "NOTICE_CODE": "신물질"
+      },
+      {
+        "DMF_PERMIT_NO": "20260901-209-J-2268",
+        "INGR_KOR_NAME": "미분화부데소니드",
+        "ENTP_NAME": "㈜하이플",
+        "MNFCTR_NAME": "Avik Pharmaceutical Limited",
+        "MNFCTR_PLACE": "A-1/7 & A-1/8, 1ST Phase, G.I.D.C., City - Vapi - 396 195, Dist.- Valsad, Gujarat State, India",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-09-01",
+        "BIZRNO": "4338600179",
+        "NOTICE_CODE": "별표1"
+      },
+      {
+        "DMF_PERMIT_NO": "20240717-124-G-172-12(2)",
+        "INGR_KOR_NAME": "헤파린나트륨",
+        "ENTP_NAME": "㈜하이플",
+        "MNFCTR_NAME": "Shenzhen Hepalink Pharmaceutical Group Co., Ltd. ",
+        "MNFCTR_PLACE": "No. 1, Rongtian Road, Kengzi Sub-district, Pingshan District Shenzhen City, Guangdong Province 518122 People’s Republic of China ",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-09-01",
+        "BIZRNO": "4338600179",
+        "NOTICE_CODE": "별표1"
+      },
+      {
+        "DMF_PERMIT_NO": "20110902-170-I-9-08(5)",
+        "INGR_KOR_NAME": "토피라메이트",
+        "ENTP_NAME": "㈜하이플",
+        "MNFCTR_NAME": "Cipla Limited",
+        "MNFCTR_PLACE": "Virgonagar Post, Old Madras Road, Bangalore-560 049, India",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-07-29",
+        "BIZRNO": "4338600179",
+        "NOTICE_CODE": "별표1"
+      },
+      {
+        "DMF_PERMIT_NO": "20250801-211-J-1981(A)",
+        "INGR_KOR_NAME": "무피로신",
+        "ENTP_NAME": "㈜하이플",
+        "MNFCTR_NAME": "Hangzhou Zhongmeihuadong Pharmaceutical Jiangdong Co., Ltd.",
+        "MNFCTR_PLACE": "No. 7278 Meilin Avenue, Dajiangdong Industrial Cluster Zone, Hangzhou 311228, China",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-07-28",
+        "BIZRNO": "4338600179",
+        "NOTICE_CODE": "별표1"
+      },
+      {
+        "DMF_PERMIT_NO": "20221130-209-J-1235(4)",
+        "INGR_KOR_NAME": "로수바스타틴칼슘",
+        "ENTP_NAME": "㈜하이플",
+        "MNFCTR_NAME": "Shaoxing Jingxin Pharmaceutical Co., Ltd.",
+        "MNFCTR_PLACE": "No.31, Wesian Road, Hangzhou Bay Shangyu Economic and Technological Development Area, Shangyu, 312369, Zhejiang Province, P.R.China",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-07-07",
+        "BIZRNO": "4338600179",
+        "NOTICE_CODE": "별표1"
+      },
+      {
+        "DMF_PERMIT_NO": "수469-9-ND(A)",
+        "INGR_KOR_NAME": "두타스테리드(미분화)",
+        "ENTP_NAME": "㈜하이플",
+        "MNFCTR_NAME": "Hubei Gedian Humanwell Pharmaceutical Co., Ltd.",
+        "MNFCTR_PLACE": "No.1 Zhiqing Road, Railway Station Economic Development Zone, Huangzhou District, Huanggang City, Hubei Province P.R. China",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-07-02",
+        "BIZRNO": "4338600179",
+        "NOTICE_CODE": "신물질"
+      },
+      {
+        "DMF_PERMIT_NO": "20260701-211-J-2226",
+        "INGR_KOR_NAME": "세보플루란",
+        "ENTP_NAME": "㈜하이플",
+        "MNFCTR_NAME": "Supriya Lifescience Ltd.",
+        "MNFCTR_PLACE": "A-5/2, Lote Parshuram Industrial Area, M.I.D.C, Taluka - Khed, District - Ratnagiri, Maharashtra State, India",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-07-01",
+        "BIZRNO": "4338600179",
+        "NOTICE_CODE": "별표1"
+      },
+      {
+        "DMF_PERMIT_NO": "수30-11-ND",
+        "INGR_KOR_NAME": "트리파로텐",
+        "ENTP_NAME": "㈜하이플",
+        "MNFCTR_NAME": "Maithri Drugs Private Limited",
+        "MNFCTR_PLACE": "Sy. No. 205, 222 to 226, IDA Bonthapally, Bonthapally (Village), Gummadidala (Mandal), Sangareddy District, Telangana, Pin code: 502 313, India.",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-06-23",
+        "BIZRNO": "4338600179",
+        "NOTICE_CODE": "신물질"
+      },
+      {
+        "DMF_PERMIT_NO": "20250728-209-J-1959(1)",
+        "INGR_KOR_NAME": "메만틴염산염",
+        "ENTP_NAME": "㈜하이플",
+        "MNFCTR_NAME": "Shaoxing Jingxin Pharmaceutical Co., Ltd.",
+        "MNFCTR_PLACE": "No.31, Weisan Road, Hangzhou Bay Shangyu Economic and Technological Development Area , Shangyu, Zhejiang Province, China, 312369",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-06-12",
+        "BIZRNO": "4338600179",
+        "NOTICE_CODE": "별표1"
+      },
+      {
+        "DMF_PERMIT_NO": "20251010-94-E-193-18(B)",
+        "INGR_KOR_NAME": "피나스테리드",
+        "ENTP_NAME": "㈜하이플",
+        "MNFCTR_NAME": "Hubei Gedian Humanwell Pharmaceutical Co., Ltd.",
+        "MNFCTR_PLACE": "No.1 Zhiqing Road, Railway Station Economic Development Zone, Huangzhou District, Huanggang City, Hubei Province, P.R. China",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-06-08",
+        "BIZRNO": "4338600179",
+        "NOTICE_CODE": "별표1"
+      },
+      {
+        "DMF_PERMIT_NO": "수30-10-ND",
+        "INGR_KOR_NAME": "클라스코테론",
+        "ENTP_NAME": "㈜하이플",
+        "MNFCTR_NAME": "Hubei Gedian Humanwell Pharmaceutical Co., Ltd.",
+        "MNFCTR_PLACE": "No.1 Zhiqing Road, Railway Station Economic Development Zone, Huangzhou District, Huanggang, Hubei 438011, China",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-06-02",
+        "BIZRNO": "4338600179",
+        "NOTICE_CODE": "신물질"
+      },
+      {
+        "DMF_PERMIT_NO": "20190220-209-J-215(14)",
+        "INGR_KOR_NAME": "로수바스타틴칼슘(미분화)",
+        "ENTP_NAME": "㈜하이플",
+        "MNFCTR_NAME": "MSN Laboratories Private Limited",
+        "MNFCTR_PLACE": "Sy. No. 317, 320, 321, 322, 323, 604 & 605, Rudraram(Village), Patancheru(Mandal), Sangareddy District, Pin code : 502 329, Telangana, India. ",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-05-22",
+        "BIZRNO": "4338600179",
+        "NOTICE_CODE": "별표1"
+      },
+      {
+        "DMF_PERMIT_NO": "20260519-210-J-2206",
+        "INGR_KOR_NAME": "이오딕산올",
+        "ENTP_NAME": "㈜하이플",
+        "MNFCTR_NAME": "Zhejiang Haizhou Pharmaceutical Co., Ltd.",
+        "MNFCTR_PLACE": "Yanhai Industrial Zone, Linhai, Zhejiang 317016, China",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-05-19",
+        "BIZRNO": "4338600179",
+        "NOTICE_CODE": "별표1"
+      },
+      {
+        "DMF_PERMIT_NO": "20220411-211-J-1178(6)",
+        "INGR_KOR_NAME": "니코틴산아미드",
+        "ENTP_NAME": "㈜하이플",
+        "MNFCTR_NAME": "Amsal Chem Pvt. Ltd.",
+        "MNFCTR_PLACE": " A-1, 401,402 & 403, GIDC., ANKLESHWAR, DIST-BHARUCH, GUJARAT STATE, INDIA",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-05-15",
+        "BIZRNO": "4338600179",
+        "NOTICE_CODE": "별표1"
+      },
+      {
+        "DMF_PERMIT_NO": "20241015-209-J-1903(1)",
+        "INGR_KOR_NAME": "노메게스트롤아세테이트",
+        "ENTP_NAME": "㈜하이플",
+        "MNFCTR_NAME": "Sicor Societa' Italiana Corticosteroidi S.R.L,Valdepharm ",
+        "MNFCTR_PLACE": "Tenuta S. Alessandro 13048 Santhia (VC), Italy,Parc Industriel d'Incarville, Parc de la Fringale, CS 10606 Val De Reuil (Cedex) 27106, France",
+        "MANUF_COUNTRY_CODE_NM": "이탈리아,프랑스",
+        "DMF_PERMIT_DATE": "2026-05-07",
+        "BIZRNO": "4338600179",
+        "NOTICE_CODE": "별표1"
+      },
+      {
+        "DMF_PERMIT_NO": "20220324-209-J-1154(2)",
+        "INGR_KOR_NAME": "펙소페나딘염산염",
+        "ENTP_NAME": "㈜하이플",
+        "MNFCTR_NAME": "M/S.Virupaksha Organics Ltd",
+        "MNFCTR_PLACE": "Sy.No. 10, Gaddapotharam Village, Jinnaram Mandal, Sangareddy District, Telangana State, India",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-04-28",
+        "BIZRNO": "4338600179",
+        "NOTICE_CODE": "별표1"
+      },
+      {
+        "DMF_PERMIT_NO": "20220222-210-J-1240(2)",
+        "INGR_KOR_NAME": "도부타민염산염",
+        "ENTP_NAME": "㈜하이플",
+        "MNFCTR_NAME": "Aragen Life Sciences Pvt. Ltd",
+        "MNFCTR_PLACE": "Plot No. 28A, IDA Nacharam, Hyderabad, India, Nacharam(V), Uppal(M), Medchal–Malkajgiri(D), Telangana State, India",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-04-23",
+        "BIZRNO": "4338600179",
+        "NOTICE_CODE": "별표1"
+      },
+      {
+        "DMF_PERMIT_NO": "20240501-211-J-1642(1)",
+        "INGR_KOR_NAME": "미분화프로게스테론",
+        "ENTP_NAME": "㈜하이플",
+        "MNFCTR_NAME": "Pharmacia & Upjohn Company LLC",
+        "MNFCTR_PLACE": "7000 Portage Road, Kalamazoo, Michigan 49001, USA",
+        "MANUF_COUNTRY_CODE_NM": "미국",
+        "DMF_PERMIT_DATE": "2026-04-23",
+        "BIZRNO": "4338600179",
+        "NOTICE_CODE": "별표1"
+      },
+      {
+        "DMF_PERMIT_NO": "수6580-16-ND(19)",
+        "INGR_KOR_NAME": "프레가발린",
+        "ENTP_NAME": "㈜하이플",
+        "MNFCTR_NAME": "CTX Lifesciences Pvt. Ltd.",
+        "MNFCTR_PLACE": "Block No.-251/B, 252/B, 253, 254, 255, 256, 258/B, 276, 277, 278/P, 279, 280, 281, 282, 283/P, 284/P, Sachin G.I.D.C., Near Gabheni Chokdi, City-Sachin, Dist.-Surat, Gujarat-394 230, India",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-04-23",
+        "BIZRNO": "4338600179",
+        "NOTICE_CODE": "신물질"
+      }
+    ]
   },
-  "items": []
+  "items": [
+    {
+      "DMF_PERMIT_NO": "20100402-01-HP-22-17",
+      "INGR_KOR_NAME": "인태반",
+      "ENTP_NAME": "하이플생명과학(주)",
+      "MNFCTR_NAME": "Biopharma",
+      "MNFCTR_PLACE": "9 M. Amosova Street, Kyiv, 03038",
+      "MANUF_COUNTRY_CODE_NM": "우크라이나",
+      "DMF_PERMIT_DATE": "2010-04-02",
+      "BIZRNO": "1338124994",
+      "NOTICE_CODE": "인태반 유래"
+    },
+    {
+      "DMF_PERMIT_NO": "20110615-131-H-85-05",
+      "INGR_KOR_NAME": "에스암로디핀베실산염",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Glochem Industries Private Limited",
+      "MNFCTR_PLACE": "Sy. No.174 to 176, IDA, Bollaram, Jinnaram Mandal, Sangareddy District, Telangana State, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2011-06-15",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20050831-37-C-34-05(4)",
+      "INGR_KOR_NAME": "메트포르민염산염",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Granules India Limited",
+      "MNFCTR_PLACE": "Plot No.: 15A/1, IDA, Phase-Ⅲ, Jeedimetla, Quthbullapur Mandal, Medchal-Malkajgiri District - 500 055 Telangana State, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2011-06-15",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "기타"
+    },
+    {
+      "DMF_PERMIT_NO": "3595-1-ND(1)",
+      "INGR_KOR_NAME": "올메사르탄메독소밀",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Venkata Narayana Active Ingredients Pvt Ltd.",
+      "MNFCTR_PLACE": "S.No.69, Chandrapadiya Village, Vinjamur Mandal Nellore District- 524228 Andhra Pradesh, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2011-10-21",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20110616-130-H-96-29(2)",
+      "INGR_KOR_NAME": "암로디핀베실산염",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Glochem Industries Private Limited",
+      "MNFCTR_PLACE": "Sy. No.174 to 176, IDA, Bollaram, Jinnaram Mandal, Sangareddy District, Telangana State, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2011-11-11",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20070504-4-B-240-14(13)",
+      "INGR_KOR_NAME": "레바미피드",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Jiangxi Synergy Pharmaceutical Co., Ltd",
+      "MNFCTR_PLACE": "No. 699, Changle Avenue, Jiangxi Fengxin Industrial Park, Fengxin County, 330700, Yichun City, Jiangxi Province, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2012-02-24",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20120309-178-I-47-01",
+      "INGR_KOR_NAME": "네비보롤염산염",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "F.I.S. FABBRICA ITALIANA SINTETICI SPA",
+      "MNFCTR_PLACE": "Chemical Plant Via Dovaro 36045 Lonigo",
+      "MANUF_COUNTRY_CODE_NM": "이탈리아",
+      "DMF_PERMIT_DATE": "2012-03-09",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20121126-93-E-103-07",
+      "INGR_KOR_NAME": "클로베타솔프로피오네이트",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Symbiotec Pharmalab Limited",
+      "MNFCTR_PLACE": "385/2 Gram Pigdamber, Near Hotel Mashal, Off A.B. Road, Rau, Indore-453 331 (MP) India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2012-11-26",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20121126-65-B-324-08",
+      "INGR_KOR_NAME": "트리암시놀론아세토니드",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Symbiotec Pharmalab Private Limited",
+      "MNFCTR_PLACE": "385/2 Gram Pigdamber, Near Hotel Mashal, Off A.B. Road, Rau, Indore-453 331 (MP) India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2012-11-26",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20130522-167-I-135-04",
+      "INGR_KOR_NAME": "케토코나졸",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Zhejiang East-Asia Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "Economic Development Zone of Sanmen County, Zhejiang, P.R.China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2013-05-22",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20130912-170-I-365-10",
+      "INGR_KOR_NAME": "토피라메이트",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Bal Pharma Limited",
+      "MNFCTR_PLACE": "No. 61-B, Bommasandra Industrial Area, Bangalore - 560 099, India.",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2013-09-12",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20131220-200-I-380-02",
+      "INGR_KOR_NAME": "브리모니딘타르타르산염",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "CZECH-GEN, A.S.",
+      "MNFCTR_PLACE": "Na Vlcinci 16/3, Klasterni Hradisko Czechia-779 00 Olomouc, Olomoucky",
+      "MANUF_COUNTRY_CODE_NM": "체코공화국",
+      "DMF_PERMIT_DATE": "2013-12-20",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20050831-9-A-2-02(18)",
+      "INGR_KOR_NAME": "록시트로마이신",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Zhejiang Zhenyuan Pharmaceutical Co. Ltd.",
+      "MNFCTR_PLACE": "No. 61 North Yuedong Road, Shaoxing City, Zhejiang Province, P.R. of China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2014-03-10",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20101029-130-H-18-03(2)",
+      "INGR_KOR_NAME": "암로디핀베실산염",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Cipla Limited",
+      "MNFCTR_PLACE": "Virgonagar Post, Old Madras Road, Bangalore - 560 049, India.",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2014-03-10",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20120907-183-I-124-07(2)",
+      "INGR_KOR_NAME": "레비티라세탐",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Venkata Narayana Active Ingredints Privated Limited",
+      "MNFCTR_PLACE": "S.No69, Chandrapadiya Village, Vinjamur Mandal, Nellore District, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2015-05-20",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20120601-107-F-64-02(1)",
+      "INGR_KOR_NAME": "에리트로마이신",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "SM Biomed SDN.BHD.",
+      "MNFCTR_PLACE": "Lot 90, Sungai Petani Industrial Estate, 08000 Sungai Petani, Kedah, Malaysia(에리스로마이신 티오시아네이트제조소 : HEC Pharm co.ltd, No62, Binjiang Road, Yidu City, Hubei Province, China)",
+      "MANUF_COUNTRY_CODE_NM": "말레이지아",
+      "DMF_PERMIT_DATE": "2015-11-17",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20160405-31-C-353-21",
+      "INGR_KOR_NAME": "아세클로페낙",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Amoli Organics (A Division of Umedica Laboratories Pvt. Ltd.)",
+      "MNFCTR_PLACE": "Plot No. 322/4, 40 Shed Area, G.I.D.C. Vapi-396 195, Gujarat State, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2016-04-05",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20130122-173-I-229-01(17)",
+      "INGR_KOR_NAME": "콘드로이틴설페이트나트륨",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Yantai Dongcheng Biochemicals Co., Ltd.",
+      "MNFCTR_PLACE": "No.7, Changbaishan Road, Yantai Development Zone, Shandong, China,",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2016-04-19",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20100630-102-F-54-11(4)",
+      "INGR_KOR_NAME": "레보플록사신수화물",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Shaoxing Jingxin Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "No.31, Weisan Road, Hangzhou Bay Shangyu Economic and Technological Development Area, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2016-04-19",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20130222-158-I-228-01(3)",
+      "INGR_KOR_NAME": "도네페질염산염수화물",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Sun Pharmaceutical Industries Ltd.",
+      "MNFCTR_PLACE": "A-7/A-8, M.I.D.C., Industrial Area, Ahmednagar - 414 111, Maharashtra, India.",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2016-05-02",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20090720-40-C-258-15(3)",
+      "INGR_KOR_NAME": "레보세티리진염산염",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Granules India Limited",
+      "MNFCTR_PLACE": "Plot No 8, Jawaharlal Nehru Pharma City, Tadi Village, Parawada Mandal, Vitsakhapatnam-531021, Andhra Pradesh, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2016-05-02",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20151015-32-C-350-20(13)",
+      "INGR_KOR_NAME": "아세트아미노펜",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Lianyungang Kangle Pharmaceutical Co.,Ltd",
+      "MNFCTR_PLACE": "No.2, Huanan Road, Ganyu Economic Development Zone, China.",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2016-05-02",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20130121-143-I-209-04(20)",
+      "INGR_KOR_NAME": "나프록센나트륨",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Zhejiang Charioteer Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "Tongyuanxi, Dazhan, Xianju, Zhejiang Province. P.R. China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2016-07-13",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20050831-33-A-81-08(11)",
+      "INGR_KOR_NAME": "아시클로버",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Zhejiang Charioteer Pharmaceutical Co., Ltd.,Zhejiang Charioteer Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "Tongyuanxi, Dazhan, Xianju, Zhejiang Province, 317321, P.R. China,Fengxi West Road No. 5, Modern Industry Zone, Xianju, Zhejiang Province, 317300, P.R. China",
+      "MANUF_COUNTRY_CODE_NM": "중국,중국",
+      "DMF_PERMIT_DATE": "2016-07-13",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20050915-45-B-206-05(5)",
+      "INGR_KOR_NAME": "암브록솔염산염",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Shilpa Pharma Lifesciences Limited",
+      "MNFCTR_PLACE": "1A & 1A'P', 1B, 2, 2A, 2B, 3A to 3E, 4A, 5A, 4B & 5B Deosugur Industrial Area, Deosugur - 584 170 Dist: Raichur, Karnataka, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2016-07-29",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20130123-62-A-268-19(9)",
+      "INGR_KOR_NAME": "클래리트로마이신",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Zhejiang Guobang Pharmaceutical Co., Ltd",
+      "MNFCTR_PLACE": " No. 6, Weiwu Road, Hangzhou Gulf Shangyu Economic and Technological Development Zone, Zhejiang, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2016-09-09",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20130208-145-I-184-04(13)",
+      "INGR_KOR_NAME": "덱시부프로펜",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Solara Active Pharma Sciences Limited",
+      "MNFCTR_PLACE": "R.S.No.33&34 Mathur Road, Periyakalapet, Puducherry, 605 014, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2016-10-27",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "수50-1-ND",
+      "INGR_KOR_NAME": "아고멜라틴",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Symed Labs Limited",
+      "MNFCTR_PLACE": "UNIT-II, Plot No. 25/B, Phase-III, IDA, Jeedimetla (Village), Quthbullapur (Mandal), Medchal-Malkajgiri (Dist) – 500 055 Telangana, INDIA.",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2016-12-02",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": "20130214-178-I-80-04(2)",
+      "INGR_KOR_NAME": "네비보롤염산염",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Cadila Pharmaceuticals Ltd.",
+      "MNFCTR_PLACE": "294, G.I.D.C. Estate., Ankleshwar - 393 002, Dist: Bharuch",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2017-02-09",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20171031-127-H-320-29",
+      "INGR_KOR_NAME": "에스오메프라졸나트륨",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Metrochem API Private Limited",
+      "MNFCTR_PLACE": "Unit-Ⅰ, Plot. No. 62/C/6, Pipeline Road Phase-I, IDA, Jeedimetla, Quthbullapur Mandal, Medchal - Malkajgiri District – 500 055, Telangana,  India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2017-10-31",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20171128-205-I-525-02",
+      "INGR_KOR_NAME": "테오브로민",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Supriya Lifescience Ltd.",
+      "MNFCTR_PLACE": "A-5/2, Lote Parshuram Industrial Area, M.I.D.C, Taluka - Khed, District - Ratnagiri, Maharashtra State, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2017-11-28",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20121220-144-I-186-02(10)",
+      "INGR_KOR_NAME": "니자티딘",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Dr. Reddy's Laboratories Limited",
+      "MNFCTR_PLACE": "APIIC Industrial Estate, Pydibhimavaram, Ranasthalam Mandal, Srikakulam District, Andhra Pradesh, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2018-02-08",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20180130-13-B-404-13(1)",
+      "INGR_KOR_NAME": "트리메부틴말레산염",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Zhejiang East-Asia Pharmaceutical Co., Ltd,",
+      "MNFCTR_PLACE": "Coastal Industrial City, Pubagangtown, Sanmen county, Zhejiang,  P.R.China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2018-03-14",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20141008-158-I-439-23(8)",
+      "INGR_KOR_NAME": "도네페질염산염",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Neuland Laboratories Ltd",
+      "MNFCTR_PLACE": "Unit-1,Sy.No.:291,346P,347,348P,473,474,490/2,Veerabhadraswamy Temple Road, Domadugu Village,Bonthapally Village,Gummadidala Mandal,Sangareddy District,Pin code 502313,Telangana State,India.\r\n",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2018-06-05",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20180208-102-F-88-16(6)",
+      "INGR_KOR_NAME": "레보플록사신수화물",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Zhejiang East-Asia Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "Costal Industrial City, Pubagang town, Sanmen county, Zhejiang, P.R. China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2018-06-05",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20050831-32-C-129-08(25)",
+      "INGR_KOR_NAME": "아세트아미노펜",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Anqiu Luan Pharmaceutical Co., Ltd",
+      "MNFCTR_PLACE": "No. 35, Weixu North Road, Anqiu City Shandong Province, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2018-06-14",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20100616-122-G-60-22(11)",
+      "INGR_KOR_NAME": "로사르탄칼륨",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Zhejiang Tianyu Pharmaceutical Co.,Ltd.",
+      "MNFCTR_PLACE": "Jiangkou Development Zone, Huangyan, Taizhou City, Zhejiang",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2018-06-14",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20050930-13-B-215-04(14)",
+      "INGR_KOR_NAME": "트리메부틴말레산염",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Xinhe Yuansheng Medicine Co., Ltd.",
+      "MNFCTR_PLACE": "No.2 Qinggong Road, Gushi County, 465200 Henan province, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2018-06-14",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20171208-209-J-23(4)",
+      "INGR_KOR_NAME": "세레콕시브",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Cadila Pharmaceuticals Limited",
+      "MNFCTR_PLACE": "294, G.I.D.C. Estate, Ankleshwar - 393 002, Dist: Bharuch Gujarat, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2018-08-06",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "수30-2-ND",
+      "INGR_KOR_NAME": "에베로리무스",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Biocon Limited",
+      "MNFCTR_PLACE": "Plot No. 2,3,4 & 5, Phase-IV, Bommasandra Jigani Link Road, Bommasandra Post Bengaluru-560 099, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2018-09-12",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": "20180816-89-E-100-07(2)",
+      "INGR_KOR_NAME": "오플록사신",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Zhejiang East-Asia Pharmaceutical Co., Ltd",
+      "MNFCTR_PLACE": "Coastal Industrial City, Pubagang town,Sanmen county, Zhejiang, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2018-10-02",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20160725-4-B-387-21(3)",
+      "INGR_KOR_NAME": "레바미피드",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "SUZHOU TIANMA SPECIALTY CHEMICALS CO., LTD",
+      "MNFCTR_PLACE": "No.122, Xuqing Road, Xuguan Town, Suzhou, Jiangsu China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2019-02-12",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20180817-209-J-88(2)",
+      "INGR_KOR_NAME": "판토프라졸나트륨수화물",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Vasudha Pharma Chem Limited",
+      "MNFCTR_PLACE": "Unit-II, Plot No.79, Jawaharlal Nehru Pharma City, Thanam Village, Parawada Mandal, Anakapalli District–531019, Andhra Pradesh, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2019-03-18",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20181014-209-J-263(2)",
+      "INGR_KOR_NAME": "모사프리드시트르산염수화물",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Symed Labs Limited",
+      "MNFCTR_PLACE": "Plot No.25/B, Phase-III, I.D.A. Jeedimetla Hyderabad-500 055, Telangana State, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2019-04-04",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20180515-209-J-27(3)",
+      "INGR_KOR_NAME": "디아세레인",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Ami Lifesciences Private Limited",
+      "MNFCTR_PLACE": "Block No. 82/B, ECP Road At & Post. Karakhadi, Tal-Padra, City :  Karakhadi-391450, Dist : Vadodara, Gujarat State India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2019-07-24",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20190628-209-J-379(A)",
+      "INGR_KOR_NAME": "플루르비프로펜",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Hy-Gro Chemicals Pharmtek Private Limited",
+      "MNFCTR_PLACE": "Plot No. 174, Progressive Industrial Society, Bollaram Village, Jinnaram Mandal, Sanga Reddy District – 502 325, Telangana, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2019-08-06",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "수30-3-ND",
+      "INGR_KOR_NAME": "다파글리플로진",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Zakłady Farmaceutyczne Polpharma SA",
+      "MNFCTR_PLACE": "19. Pelplinska Str, 83-200 Starogard Gdanski, Poland",
+      "MANUF_COUNTRY_CODE_NM": "폴란드",
+      "DMF_PERMIT_DATE": "2019-09-26",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": "20141203-161-I-436-13(3)",
+      "INGR_KOR_NAME": "트라마돌염산염",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Supriya Lifescience Ltd.",
+      "MNFCTR_PLACE": "A-5/2, Lote Parshuram Industrial Area, M.I.D.C Tal-Khed, Dist- Ratnagiri Ratnagiri 415722, Maharashtra State, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2019-12-16",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20090924-67-B-286-07(4)",
+      "INGR_KOR_NAME": "파모티딘",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Nakoda Chemicals Limited",
+      "MNFCTR_PLACE": "Plot No. 64/A& 65/B, Phase-I, IDA. Jeedimetla, Hyderabad – 500 055, Telangana, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2020-01-09",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20171016-124-G-150-06(2)",
+      "INGR_KOR_NAME": "헤파린나트륨",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Hebei Changshan Biochemical Pharmaceutical Co.,Ltd.",
+      "MNFCTR_PLACE": "No.71, Menglong Street, South District of Zhengding High-tech Industrial Development Zone, Zhengding Area of China (Hebei) Pilot Free Trade Zone (050800), China ",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2020-01-30",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20200511-209-J-394",
+      "INGR_KOR_NAME": "부프로피온염산염",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Dijia Pharmaceutical Group Co., Ltd",
+      "MNFCTR_PLACE": "No.268 Tianrun Road, Wendeng Economic Development Zone, Weihai China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2020-05-11",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20200625-210-J-661",
+      "INGR_KOR_NAME": "류프로렐린아세트산염",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Chinese Peptide Company",
+      "MNFCTR_PLACE": "No. 69, 12 Street, Economic & Technological Development Zone, Hangzhou China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2020-06-25",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20200629-211-J-663",
+      "INGR_KOR_NAME": "글루타티온(환원형)",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Shandong Jin cheng Bio-Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "Jiao Wang Fu Xian Road North, Dong Yi Road West, Zichuan Economy Development Zone, Zibo City, Shandong Province, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2020-06-29",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20200722-93-E-160-09",
+      "INGR_KOR_NAME": "클로베타솔프로피오네이트",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": " Avik Pharmaceutical Limited,[베타메타손 제조소]Hunan Yuxin Pharmaceutical Co. Ltd.",
+      "MNFCTR_PLACE": "A-1/7 & A-1/8, 1ST Phase, G.I.D.C., City : Vapi - 396 195, Dist. Valsad, Gujarat State, India,[베타메타손 제조소]Longxutang, Shuangqing District Shaoyang City Hunan Province, China",
+      "MANUF_COUNTRY_CODE_NM": "인도,중국",
+      "DMF_PERMIT_DATE": "2020-07-22",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20200807-186-I-610-03",
+      "INGR_KOR_NAME": "베클로메타손디프로피오네이트",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "AVIK Pharmaceutical. Ltd",
+      "MNFCTR_PLACE": "A-1/7, 1St Phaes, G.I.D.C., City : VAPI - 396 195, Dist. Valsad Gujarat State India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2020-08-07",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20200813-150-I-575-12",
+      "INGR_KOR_NAME": "설박탐나트륨",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "North China Pharmaceutical Group Semisyntech Co., Ltd,[‘설박탐’ 제조소]Jiangxi Fushine Pharmaceutical Co., Ltd ",
+      "MNFCTR_PLACE": "No. 20 Yangzi Road Economic & Technological Develoment Zone, Shijazhuang, China,[‘설박탐’ 제조소]No.2 Yuli Industrial Zone, Changjiang District, Jiangdezhen City, Jiangxi Province, China  ",
+      "MANUF_COUNTRY_CODE_NM": "중국,중국",
+      "DMF_PERMIT_DATE": "2020-08-13",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20200813-209-J-486",
+      "INGR_KOR_NAME": "부데소니드",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "AVIK Pharmaceutical. Ltd",
+      "MNFCTR_PLACE": "A-1/7, 1St Phaes, G.I.D.C., City : VAPI - 396 195, Dist. Valsad Gujarat State India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2020-08-13",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": ""
+    },
+    {
+      "DMF_PERMIT_NO": "20200825-210-J-675",
+      "INGR_KOR_NAME": "메로페넴수화물",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Shandong Anhong Pharmaceutical Co., Ltd",
+      "MNFCTR_PLACE": "No. 29 Huayuan Street Linyi County, Dezhou, Shandong, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2020-08-25",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "수30-4-ND",
+      "INGR_KOR_NAME": "루파타딘푸마르산염",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Vasudha Pharma Chem Limited, [데스로라타딘 제조원] Vasudha Pharma Chem Limited,[데스로라타딘 제조원]Vasudha Pharma Chem Limited Unit-II",
+      "MNFCTR_PLACE": "Unit-Ⅱ, Plot No. 79, Jawaharlal Nehru Pharma City, Thanam(V), Parawada(M), Anakapalli - 531019, Andhra Pradesh, India, [데스로라타딘 제조원] Unit-I, Plot No. 37/A, 38, 39 A & B, Phase-I, IDA., Jeedimetla, Hyderabad – 500 055, Telangana, India,[데스로라타딘 제조원]Unit-II, Plot No.79, Jawaharlal Nehru Pharma city, Thanam (V), Parawada (M), Anakapalli District - 531019, Andhra Pradesh, India",
+      "MANUF_COUNTRY_CODE_NM": "인도,인도,인도",
+      "DMF_PERMIT_DATE": "2020-09-04",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": "수4766-1-ND(5)",
+      "INGR_KOR_NAME": "이반드론산나트륨",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Fleming Laboratories Limited",
+      "MNFCTR_PLACE": "Plot No. 152&160, Phase-V, IDA, Jeedimetla(V), Quthbullapur(M) Medchal-Malkajgiri District  Telangana State, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2020-09-08",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": "20201019-211-J-768",
+      "INGR_KOR_NAME": "푸로산모메타손",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Avik Pharmaceutical Limited",
+      "MNFCTR_PLACE": "A-1/7 & A-1/8, 1 st Phase, G.I.D.C., City : Vapi - 396 195, Dist. Valsad, Gujarat State, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2020-10-19",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20210204-210-J-829",
+      "INGR_KOR_NAME": "메로페넴수화물",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Shenzhen Haibin Pharmaceutical Co.,Ltd",
+      "MNFCTR_PLACE": "No. 2003 Shenyan Road, Yantian District, Shenzhen City, Guangdong Province, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2021-02-04",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "수496-24-ND(2)",
+      "INGR_KOR_NAME": "에제티미브",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Lupin Limited",
+      "MNFCTR_PLACE": "T-142, Tarapur, via-Boisar, Thane 401506 Maharashtra state, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2021-03-10",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": "20200818-210-J-676(1)",
+      "INGR_KOR_NAME": "로피바카인염산염수화물",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Shandong Anhong Pharmaceutical Co., Ltd.(구 Qilu Antibiotics (Linyi) Pharmaceutical Co., Ltd.)",
+      "MNFCTR_PLACE": "No.29 Huayuan Street Linyi County, Dezhou, Shandong, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2021-03-12",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20071228-94-E-57-03(9)",
+      "INGR_KOR_NAME": "피나스테리드",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Cipla Limited",
+      "MNFCTR_PLACE": "A-33 & A-37/2/2, MIDC Patalganga - 410 220, District Raigad, Maharashtra, State, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2021-03-12",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20190322-49-A-349-21(9)",
+      "INGR_KOR_NAME": "테르비나핀염산염",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Zhejiang East-asia Pharmaceutical Co. Ltd.",
+      "MNFCTR_PLACE": "Coastal Industrial City, Pubagang town, Sanmen county, Zhejiang, 317100, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2021-03-23",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20130618-132-H-238-23(14)",
+      "INGR_KOR_NAME": "아토르바스타틴칼슘수화물",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Zhejiang LEPU Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "No.29, Binhai Road, Jiaojiang District, Taizhou City, Zhejiang, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2021-03-23",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "수30-5-ND",
+      "INGR_KOR_NAME": "슈가마덱스나트륨",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Natco Pharma Limited",
+      "MNFCTR_PLACE": "Mekaguda Village Nandigama Mandal Rangareddy District, Telangana, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2021-03-23",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": "20210427-211-J-955",
+      "INGR_KOR_NAME": "베타메타손디프로피오네이트",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Avik Pharmaceutical Limited",
+      "MNFCTR_PLACE": "A-1/7 & A-1/8, 1ST Phase, G.I.D.C., City : Vapi - 396 195, Dist. Valsad, Gujarat State, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2021-04-27",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20200102-2-K-50-02(5)",
+      "INGR_KOR_NAME": "돼지뇌펩티드",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Hangzhou Huajin Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "No.156, Guagang Yi Road, Guali Town, Xiaoshan District, Hangzhou",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2021-04-27",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1의2"
+    },
+    {
+      "DMF_PERMIT_NO": "20170727-127-H-316-26(8)",
+      "INGR_KOR_NAME": "에스오메프라졸마그네슘삼수화물",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Lee Pharma Limited",
+      "MNFCTR_PLACE": "Sy No. 10/G-1, Gaddapotharam Village, Jinnaram Mandal, Sangareddy District, Telangana State, 502319, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2021-06-10",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20210611-209-J-542",
+      "INGR_KOR_NAME": "날트렉손염산염",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Rusan Pharma Ltd.",
+      "MNFCTR_PLACE": "Plot no. 6406, GIDC ESTATE, ANKLESHWAR, City : ANKLESHWAR - 393 002, Dist : Bharuch, Gujarat State, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2021-06-11",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20201022-209-J-571(2)",
+      "INGR_KOR_NAME": "미르타자핀",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Neuland Laboratories Limited",
+      "MNFCTR_PLACE": "Unit-I, Sy. No. 291, 346P, 347, 348P, 473, 474, 490/2, Veerabhadraswamy Temple Road, Domadugu Village, Bonthapally Village, Gummadidala Mandal, Sangareddy District, Pin code 502313, Telangana State, India. ",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2021-06-16",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20210626-211-J-1002",
+      "INGR_KOR_NAME": "베타메타손발레레이트",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Avik Pharmaceutical Limited,Tianjin Tianyao Pharmaceuticals Co., Ltd",
+      "MNFCTR_PLACE": "A-1/7 & A-1/8, 1ST Phase, G.I.D.C., City : Vapi - 396 195, Dist. Valsad, Gujarat State, India,No 19 Xinye 9th, west area of Tianjin Economic-Technological Development Area, Tianjin China",
+      "MANUF_COUNTRY_CODE_NM": "인도,중국",
+      "DMF_PERMIT_DATE": "2021-06-26",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20211209-127-H-397-43(1)",
+      "INGR_KOR_NAME": "에스오메프라졸마그네슘삼수화물(미분화)",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Lee Pharma Limited",
+      "MNFCTR_PLACE": "Survey No. 10/G-1, Gaddapotharam Village Jinnaram Mandal, Sangareddy District Telangana State, 502319, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2022-01-21",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20220215-210-J-1148",
+      "INGR_KOR_NAME": "고나도렐린아세테이트",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Bachem AG",
+      "MNFCTR_PLACE": "Hauptstrasse 144, 4416 Bubendorf, Switzerland",
+      "MANUF_COUNTRY_CODE_NM": "스위스",
+      "DMF_PERMIT_DATE": "2022-02-15",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20210711-209-J-980(4)",
+      "INGR_KOR_NAME": "히드로코르티손",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Henan Lihua Pharmaceutical Co.,Ltd.",
+      "MNFCTR_PLACE": "Middle of Huanghe Street, Anyang Hi-Tech Industry Development Zone, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2022-02-24",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20201222-15-K-60-04(1)",
+      "INGR_KOR_NAME": "옥수수불검화정량추출물",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Hunan Tianlong Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "No. 228, Wangcheng Avenue, Wangcheng Economic and Technological Development Zone, Changsha City",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2022-04-06",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1의2"
+    },
+    {
+      "DMF_PERMIT_NO": "수496-27-ND(1)",
+      "INGR_KOR_NAME": "에피나코나졸",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Cipla Limited.",
+      "MNFCTR_PLACE": "Plot NOS. A-2, A-33 & A-37/2/2, M.I.D.C., Patalganga, Raigad 410220 Maharashtra State, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2022-04-27",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": "20220503-209-J-1282",
+      "INGR_KOR_NAME": "벤조나테이트",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Formosa Laboratories, Inc.",
+      "MNFCTR_PLACE": "36 Heping Street, Luzhu Dist., Taoyuan 338002, Taiwan",
+      "MANUF_COUNTRY_CODE_NM": "대만",
+      "DMF_PERMIT_DATE": "2022-05-03",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "수69-8-ND(2)",
+      "INGR_KOR_NAME": "슈가마덱스나트륨",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "USV Private Limited",
+      "MNFCTR_PLACE": "B-1/8, MIDC Lote Parshuram Industrial Area, Taluka Khed, District Ratnagiri, Maharashtra, India 415 722, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2022-05-22",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": "20180330-210-J-195(4)",
+      "INGR_KOR_NAME": "싸이모신-알파1",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Suzhou Tianma Pharma Group Tianji BIO-Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "No.199, East Huayuan Road, Mudu Town, Suzhou City, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2022-05-23",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20220524-210-J-1304",
+      "INGR_KOR_NAME": "도세탁셀삼수화물",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "ScinoPharm Taiwan, Ltd.",
+      "MNFCTR_PLACE": "No. 1, Nan-ke 8th Road, Shan-Hua, Tainan 741014, Taiwan",
+      "MANUF_COUNTRY_CODE_NM": "대만",
+      "DMF_PERMIT_DATE": "2022-05-24",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "수30-6-ND",
+      "INGR_KOR_NAME": "미카펑긴나트륨",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Biocon Limited",
+      "MNFCTR_PLACE": "Plot No. 2,3,4 & 5, Phase-IV, Bommasandra Jigani Link Road, Bommasandra Post Bengaluru-560 099, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2022-05-25",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": "20130322-96-E-109-34(C)",
+      "INGR_KOR_NAME": "히알루론산나트륨",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Bloomage Biotechnology Corp., Ltd.",
+      "MNFCTR_PLACE": "No 678, Tianchen St., High-Tech Development Zone, Jinan City, Shandong Province, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2022-07-08",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20211021-96-E-171-54(A)",
+      "INGR_KOR_NAME": "히알루론산나트륨",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Bloomage Biotechnology Corp., Ltd.",
+      "MNFCTR_PLACE": "No. 678 Tianchen Street, High-Tech Development Zone, Jinan, China.",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2022-07-08",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "수674-2-ND(2)",
+      "INGR_KOR_NAME": "에독사반토실산염수화물",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Zydus Lifescience Limited",
+      "MNFCTR_PLACE": "Plot No. 26 to 29 & 31 Vill: Dabhasa Tal: Padra, City : Dabhasa-391440, Dist.: Vadodara, Gujarat State India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2022-07-08",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": "20210113-209-J-354(A)",
+      "INGR_KOR_NAME": "칼리디노게나제",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Jiangxi Haoran Bio-pharma Co., Ltd",
+      "MNFCTR_PLACE": "No. 369, Youkou Road, Nanchang High-Tech Industry Development Zone, Nanchang City, Jiangxi Province, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2022-08-11",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "수55-7-ND(3)",
+      "INGR_KOR_NAME": "토파시티닙시트르산염",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Glenmark Life Sciences Limited",
+      "MNFCTR_PLACE": "Plot No 3109, GIDC Industrial Estate, Ankleshwar - 393 002, Dist. Bharuch, Gujarat State, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2022-09-16",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": "20220930-65-B-467-12",
+      "INGR_KOR_NAME": "트리암시놀론아세토니드",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Avik Pharmaceutical Limited",
+      "MNFCTR_PLACE": "A-1/7 & A-1/8, 1ST Phase, G.I.D.C., City : Vapi - 396 195, Dist. Valsad, Gujarat State, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2022-09-30",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20221018-68-A-374-18",
+      "INGR_KOR_NAME": "파클리탁셀",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "ScinoPharm Taiwan, Ltd.",
+      "MNFCTR_PLACE": "No. 1, Nan-ke 8th Road, Shan-Hua, Tainan 741014, Taiwan",
+      "MANUF_COUNTRY_CODE_NM": "대만",
+      "DMF_PERMIT_DATE": "2022-10-18",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20220517-211-J-1295(1)",
+      "INGR_KOR_NAME": "후박75%에탄올 연조엑스(5→1)",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Hunan Tianlong Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "No. 228, Wangcheng Avenue, Wangcheng Economic and Technological Development Zone, Changsha City, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2022-10-26",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20221207-210-J-1398",
+      "INGR_KOR_NAME": "류프로렐린아세테이트",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Bachem AG",
+      "MNFCTR_PLACE": "Hauptstrasse 144, 4416 Bubendorf, Switzerland",
+      "MANUF_COUNTRY_CODE_NM": "스위스",
+      "DMF_PERMIT_DATE": "2022-12-07",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "수434-41-ND(2)",
+      "INGR_KOR_NAME": "엠파글리플로진",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "MSN Life Sciences Privated Limited",
+      "MNFCTR_PLACE": "Unit-II, Sy.No. *Parts of 454, 455,457,458 & 459, Chandampet (Village), Shankarampet-R (Mandal), Medak District, Telangana Pincode: 502 255 India.",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2023-04-18",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": "20230504-210-J-1486",
+      "INGR_KOR_NAME": "설박탐나트륨",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Sichuan Renan Pharmaceutical Co., Ltd.,Shenyang Dongrui Fine Chemical Co, Ltd.",
+      "MNFCTR_PLACE": "No. 9, Ren’an Section, Health road, Jiulong Town (Industrial Park) Yuechi, Sichuan, 638300, China,No.20, Shenxisi Dong Road, Shenyang Economic and Technological Development Area, Shenyang, China",
+      "MANUF_COUNTRY_CODE_NM": "중국,중국",
+      "DMF_PERMIT_DATE": "2023-05-04",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20230512-210-J-1491",
+      "INGR_KOR_NAME": "암피실린나트륨",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Sichuan Renan Pharmaceutical Co, Ltd,[출발물질제조소]North China Pharmaceutical Group Semisyntech  Co., Ltd",
+      "MNFCTR_PLACE": "No 9, Ren' an Section, Health road, Jiulong Town (Industrial Park) Yuechi, Sichuan, 638300, China,No. 20 Yangzi Road, Shijiazhuang Economic & Technological Development Zone, Hebei, P.R.China",
+      "MANUF_COUNTRY_CODE_NM": "중국,중국",
+      "DMF_PERMIT_DATE": "2023-05-12",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20230608-210-J-1507",
+      "INGR_KOR_NAME": "암포테리신B",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "North China Pharmaceutical Huasheng Co., Ltd.",
+      "MNFCTR_PLACE": "No.8 Yangzi Road, Shijiazhuang Economic & Technological Development Zone, Hebei 052160, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2023-06-08",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20230630-210-J-1513",
+      "INGR_KOR_NAME": "이리노테칸염산염",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "ScinoPharm Taiwan, Ltd.",
+      "MNFCTR_PLACE": "No. 1, Nan-ke 8th Road, Shan-Hua, Tainan 741014, Taiwan",
+      "MANUF_COUNTRY_CODE_NM": "대만",
+      "DMF_PERMIT_DATE": "2023-06-30",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20230706-211-J-1492",
+      "INGR_KOR_NAME": "미녹시딜",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "OLON S.p.A.",
+      "MNFCTR_PLACE": "VIA DELLA VITTORIA, 89 - 26837 MULAZZANO (LO), Italy",
+      "MANUF_COUNTRY_CODE_NM": "이탈리아",
+      "DMF_PERMIT_DATE": "2023-07-06",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "수582-5-ND(12)",
+      "INGR_KOR_NAME": "미분화리나글립틴",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Ruyuan HEC Pharma Co., Ltd.",
+      "MNFCTR_PLACE": "Xiaba Development Zone, Ruyuan County, Shaoguan City, 512721, Guangdong Province, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2023-07-26",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": "20210323-211-J-662(7)",
+      "INGR_KOR_NAME": "벤포티아민",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Ami Lifesciences Private Limited",
+      "MNFCTR_PLACE": "Block No. 82/B, ECP Road At & Post. Karakhadi, Tal-Padra, City :  Karakhadi-391450, Dist : Vadodara, Gujarat State India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2023-09-12",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20200707-138-H-374-14(3)",
+      "INGR_KOR_NAME": "에르도스테인",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Aurore Pharmaceuticals Private Limited(Unit-1)",
+      "MNFCTR_PLACE": "Plot No. 35, 36, 38 to 40, 49 to 51, Phase IV, IDA, Jeedimetla, Hyderabad 500055 Telangana State India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2023-12-01",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "수30-7-ND",
+      "INGR_KOR_NAME": "테고프라잔",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Ruyuan HEC Pharm Co., Ltd.",
+      "MNFCTR_PLACE": "Xiaba Development Zone, Ruyuan County, Shaoguan, Guangdong Province, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2023-12-11",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": "수21-25-ND(1)",
+      "INGR_KOR_NAME": "테고프라잔",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Lee Pharma Limited",
+      "MNFCTR_PLACE": "Survey No.10/G-1, Gaddapotharam Village, Jinnaram Mandal, Sangareddy District, Telangana State, 502319, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2024-02-23",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20240326-209-J-1628",
+      "INGR_KOR_NAME": "메틸프레드니솔론",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Avik Pharmaceutical Limited",
+      "MNFCTR_PLACE": "A-1/7 & A-1/8, 1ST Phase, G.I.D.C., City : Vapi - 396 195, Dist. Valsad, Gujarat State, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2024-03-26",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20210831-209-J-1102(A)",
+      "INGR_KOR_NAME": "세레콕시브",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Dijia Pharmaceutical Group Co., Ltd.",
+      "MNFCTR_PLACE": "No.268 Tianrun Road, Wendeng Economic Development Zone, Weihai, Shandong, 264400, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2024-03-29",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20210524-209-J-795(A)",
+      "INGR_KOR_NAME": "오르리스타트",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Zein Biotechnology Co., Ltd",
+      "MNFCTR_PLACE": "No.22 Hua Nan Road, Changshou Economic Zone, Chongqing, China ",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2024-04-03",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20240531-158-I-673-41",
+      "INGR_KOR_NAME": "도네페질염산염",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Dijia Pharmaceutical Group Co., Ltd.",
+      "MNFCTR_PLACE": "No.268 Tianrun Road, Wendeng Economic Development Zone, Weihai, Shandong, 264400, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2024-05-31",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20210309-210-J-704(11)",
+      "INGR_KOR_NAME": "리도카인염산염",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Delta Synthetic Co., Ltd.",
+      "MNFCTR_PLACE": "15 Minsheng St., Tucheng Dist., New Taipei City 23679, Taiwan, R. O. C.",
+      "MANUF_COUNTRY_CODE_NM": "대만",
+      "DMF_PERMIT_DATE": "2024-06-28",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20211230-211-J-1112(1)",
+      "INGR_KOR_NAME": "아트로핀황산염수화물",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "SCL Lifescience Limited",
+      "MNFCTR_PLACE": "Derabassi-Barwala Road, Village Bhagwanpura, Tehsil Derabassi, District Sahibzada Ajit Singh Nagar, Punjab, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2024-07-11",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20240717-211-J-1663",
+      "INGR_KOR_NAME": "데속시메타손",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Symbiotec Pharmalab Limited",
+      "MNFCTR_PLACE": "385/2, Pigdamber, Rau, Mhow, Indore, Madhya Pradesh 453331, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2024-07-17",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20200721-209-J-394(5)",
+      "INGR_KOR_NAME": "세벨라머탄산염",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Solara Active Pharma Sciences Limited",
+      "MNFCTR_PLACE": "A1/B, SIPCOT Industrial Complex, Kudikadu, Cuddalore- 607 005, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2024-07-26",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20240731-211-J-1672",
+      "INGR_KOR_NAME": "탄산수소나트륨",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Novabay Pte Ltd.",
+      "MNFCTR_PLACE": "20 Tembusu Avenue, Jurong Island 627536, Singapore",
+      "MANUF_COUNTRY_CODE_NM": "싱가포르",
+      "DMF_PERMIT_DATE": "2024-07-31",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20210721-209-J-1073(3)",
+      "INGR_KOR_NAME": "이부프로펜",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Shandong Xinhua Pharmaceutical Co., Ltd",
+      "MNFCTR_PLACE": "East Chemical Zone of Zibo High & New Technology Zone, Zibo, Shandong, 255075 P.R. China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2024-09-09",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20200723-210-J-699(A)",
+      "INGR_KOR_NAME": "도세탁셀삼수화물",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Qilu Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "No. 23999 Gong Ye Bei Road, Jinan, Shandong Province, 250100, P. R. China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2024-10-14",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20241107-209-J-1623(1)",
+      "INGR_KOR_NAME": "니세르골린",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Fuan Pharmaceutical Group Chongqing Bosen Pharmaceutical Co., Ltd ",
+      "MNFCTR_PLACE": "No.1 Huanan Yi Road, Changshou District Chongqing 401254 China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2025-01-07",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "수30-8-ND",
+      "INGR_KOR_NAME": "바리시티닙",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Chunghwa Chemical Synthesis & Biotech Co.,Ltd.",
+      "MNFCTR_PLACE": "No.1, Tung-Hsing St., Shu-Lin, New Taipei City 238010, Taiwan",
+      "MANUF_COUNTRY_CODE_NM": "대만",
+      "DMF_PERMIT_DATE": "2025-01-14",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": "20250124-209-J-1751",
+      "INGR_KOR_NAME": "덱사메타손나트륨포스페이트",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Zhejiang Xianju Pharmaceutical Co. Ltd.",
+      "MNFCTR_PLACE": "No. 15 West Fengxi Road, Modern Industrial Park, Xianju, Taizhou, Zhejiang, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2025-01-24",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20210303-209-J-627(1)",
+      "INGR_KOR_NAME": "팜시클로비르",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Chongqing Shenghuaxi Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "No.8 Jiangqiao Road, Nan’an District Chongqing. 401336 China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2025-02-10",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20250320-210-J-1790",
+      "INGR_KOR_NAME": "펜톨라민메실산염",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "INDUSTRIALE CHIMICA s.r.l.",
+      "MNFCTR_PLACE": "Via E. H. Grieg, 13 21047 SARONNO (VARESE), ITALY",
+      "MANUF_COUNTRY_CODE_NM": "이탈리아",
+      "DMF_PERMIT_DATE": "2025-03-20",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20250324-211-J-1789",
+      "INGR_KOR_NAME": "파파베린염산염",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "SCL Lifesciences Limited",
+      "MNFCTR_PLACE": "Derabassi–Barwala Road, Village Bhagwanpura, Tehsil Derabassi, District Sahibzada Ajit Singh Nagar, Punjab, PIN-140507, India ",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2025-03-24",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20210422-209-J-949(2)",
+      "INGR_KOR_NAME": "판토프라졸나트륨세스키히드레이트무수물",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Cipla Limited",
+      "MNFCTR_PLACE": "Old Madras Road, Virgonagar Post, Bangalore-560 049, India ",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2025-06-02",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20240112-18-C-409-09(A)",
+      "INGR_KOR_NAME": "사이클로스포린",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Joyang Laboratories",
+      "MNFCTR_PLACE": "No.9, Haidu North Road, Sheyang Economic Development Zone",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2025-06-02",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20250610-209-J-1909",
+      "INGR_KOR_NAME": "발라시클로비르염산염",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Yichang Tianren Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "No.509 Donglin Road, Free Trade Zone, Yichang Area Biological Industry Park, China (Hubei)",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2025-06-10",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20250821-209-J-1973",
+      "INGR_KOR_NAME": "페노피브레이트",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Jiangsu Nhwa Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "No.6, Tianyong Road, Industrial Park, Xuzhou City, Jiangsu Province, 221000, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2025-08-21",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20130516-161-I-55-11(11)",
+      "INGR_KOR_NAME": "트라마돌염산염",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Virupaksha Organics Limited ",
+      "MNFCTR_PLACE": "Sy. No. 10, Gaddapotharma Village, Jinnaram Mandal, Sangareddy District-502319, Telangana State, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2025-09-08",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20251204-210-J-2061",
+      "INGR_KOR_NAME": "유리나스타틴",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Jiangxi Haoran Bio-pharma Co., Ltd.",
+      "MNFCTR_PLACE": "No. 369 Youkou Road, High-Tech Industry Development Zone, Nanchang, Jiangxi, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2025-12-04",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "수30-9-ND",
+      "INGR_KOR_NAME": "미라베그론",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Dijia Pharmaceutical Group Co., Ltd.",
+      "MNFCTR_PLACE": "No. 268 Tianrun Road, Wendeng Economic Development Zone, Weihai, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2025-12-17",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": "수674-7-ND(3)",
+      "INGR_KOR_NAME": "피네레논베실산염(미분화)",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Lee Pharma Limited",
+      "MNFCTR_PLACE": "No 10 G 1 Gaddapotharam,Jinnaram,Telangana 502319, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-01-30",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": "20250909-4-B-493-25(2)",
+      "INGR_KOR_NAME": "레바미피드",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Zhejiang Liaoyuan Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "Zhejiang Provincial Chemical and Medical Raw Materials Base Linhai Zone, Duqiao Town, Linhai City, Zhejiang Province, 317016, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-03-24",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "수720-12-ND(1)",
+      "INGR_KOR_NAME": "리나글립틴",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Morepen Laboratories Limited",
+      "MNFCTR_PLACE": "(Morepen Village)Vill. Malkumajra, Baddi-Nalagarh Road, Baddi. District-Solan(Himachal Pradesh), India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-04-13",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": "수6580-16-ND(19)",
+      "INGR_KOR_NAME": "프레가발린",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "CTX Lifesciences Pvt. Ltd.",
+      "MNFCTR_PLACE": "Block No.-251/B, 252/B, 253, 254, 255, 256, 258/B, 276, 277, 278/P, 279, 280, 281, 282, 283/P, 284/P, Sachin G.I.D.C., Near Gabheni Chokdi, City-Sachin, Dist.-Surat, Gujarat-394 230, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-04-23",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": "20240501-211-J-1642(1)",
+      "INGR_KOR_NAME": "미분화프로게스테론",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Pharmacia & Upjohn Company LLC",
+      "MNFCTR_PLACE": "7000 Portage Road, Kalamazoo, Michigan 49001, USA",
+      "MANUF_COUNTRY_CODE_NM": "미국",
+      "DMF_PERMIT_DATE": "2026-04-23",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20220222-210-J-1240(2)",
+      "INGR_KOR_NAME": "도부타민염산염",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Aragen Life Sciences Pvt. Ltd",
+      "MNFCTR_PLACE": "Plot No. 28A, IDA Nacharam, Hyderabad, India, Nacharam(V), Uppal(M), Medchal–Malkajgiri(D), Telangana State, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-04-23",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20220324-209-J-1154(2)",
+      "INGR_KOR_NAME": "펙소페나딘염산염",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "M/S.Virupaksha Organics Ltd",
+      "MNFCTR_PLACE": "Sy.No. 10, Gaddapotharam Village, Jinnaram Mandal, Sangareddy District, Telangana State, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-04-28",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20241015-209-J-1903(1)",
+      "INGR_KOR_NAME": "노메게스트롤아세테이트",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Sicor Societa' Italiana Corticosteroidi S.R.L,Valdepharm ",
+      "MNFCTR_PLACE": "Tenuta S. Alessandro 13048 Santhia (VC), Italy,Parc Industriel d'Incarville, Parc de la Fringale, CS 10606 Val De Reuil (Cedex) 27106, France",
+      "MANUF_COUNTRY_CODE_NM": "이탈리아,프랑스",
+      "DMF_PERMIT_DATE": "2026-05-07",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20220411-211-J-1178(6)",
+      "INGR_KOR_NAME": "니코틴산아미드",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Amsal Chem Pvt. Ltd.",
+      "MNFCTR_PLACE": " A-1, 401,402 & 403, GIDC., ANKLESHWAR, DIST-BHARUCH, GUJARAT STATE, INDIA",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-05-15",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20260519-210-J-2206",
+      "INGR_KOR_NAME": "이오딕산올",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Zhejiang Haizhou Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "Yanhai Industrial Zone, Linhai, Zhejiang 317016, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-05-19",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20190220-209-J-215(14)",
+      "INGR_KOR_NAME": "로수바스타틴칼슘(미분화)",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "MSN Laboratories Private Limited",
+      "MNFCTR_PLACE": "Sy. No. 317, 320, 321, 322, 323, 604 & 605, Rudraram(Village), Patancheru(Mandal), Sangareddy District, Pin code : 502 329, Telangana, India. ",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-05-22",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "수30-10-ND",
+      "INGR_KOR_NAME": "클라스코테론",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Hubei Gedian Humanwell Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "No.1 Zhiqing Road, Railway Station Economic Development Zone, Huangzhou District, Huanggang, Hubei 438011, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-06-02",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": "20251010-94-E-193-18(B)",
+      "INGR_KOR_NAME": "피나스테리드",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Hubei Gedian Humanwell Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "No.1 Zhiqing Road, Railway Station Economic Development Zone, Huangzhou District, Huanggang City, Hubei Province, P.R. China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-06-08",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20250728-209-J-1959(1)",
+      "INGR_KOR_NAME": "메만틴염산염",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Shaoxing Jingxin Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "No.31, Weisan Road, Hangzhou Bay Shangyu Economic and Technological Development Area , Shangyu, Zhejiang Province, China, 312369",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-06-12",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "수30-11-ND",
+      "INGR_KOR_NAME": "트리파로텐",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Maithri Drugs Private Limited",
+      "MNFCTR_PLACE": "Sy. No. 205, 222 to 226, IDA Bonthapally, Bonthapally (Village), Gummadidala (Mandal), Sangareddy District, Telangana, Pin code: 502 313, India.",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-06-23",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": "20260701-211-J-2226",
+      "INGR_KOR_NAME": "세보플루란",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Supriya Lifescience Ltd.",
+      "MNFCTR_PLACE": "A-5/2, Lote Parshuram Industrial Area, M.I.D.C, Taluka - Khed, District - Ratnagiri, Maharashtra State, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-07-01",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "수469-9-ND(A)",
+      "INGR_KOR_NAME": "두타스테리드(미분화)",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Hubei Gedian Humanwell Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "No.1 Zhiqing Road, Railway Station Economic Development Zone, Huangzhou District, Huanggang City, Hubei Province P.R. China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-07-02",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": "20221130-209-J-1235(4)",
+      "INGR_KOR_NAME": "로수바스타틴칼슘",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Shaoxing Jingxin Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "No.31, Wesian Road, Hangzhou Bay Shangyu Economic and Technological Development Area, Shangyu, 312369, Zhejiang Province, P.R.China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-07-07",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20250801-211-J-1981(A)",
+      "INGR_KOR_NAME": "무피로신",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Hangzhou Zhongmeihuadong Pharmaceutical Jiangdong Co., Ltd.",
+      "MNFCTR_PLACE": "No. 7278 Meilin Avenue, Dajiangdong Industrial Cluster Zone, Hangzhou 311228, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-07-28",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20110902-170-I-9-08(5)",
+      "INGR_KOR_NAME": "토피라메이트",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Cipla Limited",
+      "MNFCTR_PLACE": "Virgonagar Post, Old Madras Road, Bangalore-560 049, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-07-29",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20240717-124-G-172-12(2)",
+      "INGR_KOR_NAME": "헤파린나트륨",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Shenzhen Hepalink Pharmaceutical Group Co., Ltd. ",
+      "MNFCTR_PLACE": "No. 1, Rongtian Road, Kengzi Sub-district, Pingshan District Shenzhen City, Guangdong Province 518122 People’s Republic of China ",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-09-01",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20260901-209-J-2268",
+      "INGR_KOR_NAME": "미분화부데소니드",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Avik Pharmaceutical Limited",
+      "MNFCTR_PLACE": "A-1/7 & A-1/8, 1ST Phase, G.I.D.C., City - Vapi - 396 195, Dist.- Valsad, Gujarat State, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-09-01",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "수30-12-ND",
+      "INGR_KOR_NAME": "에베로리무스",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Biocon Limited",
+      "MNFCTR_PLACE": "Special Economic Zone, Plot No. 2, 3, 4 & 5, Phase IV, Bommasandra- Jigani Link Road, Bommasandra Post, Bengaluru-560 099, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-09-09",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": "신물질"
+    }
+  ]
 }
