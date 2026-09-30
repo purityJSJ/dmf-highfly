@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-29T00:16:44.999Z",
-  "totalCount": 151,
-  "fetchedCount": 151,
+  "generatedAt": "2026-09-30T00:17:32.319Z",
+  "totalCount": 152,
+  "fetchedCount": 152,
   "summary": {
     "uniqueCompanies": 2,
     "uniqueCountries": 12,
-    "uniqueIngredients": 129,
+    "uniqueIngredients": 130,
     "topCompanies": [
       {
         "name": "㈜하이플",
-        "count": 150
+        "count": 151
       },
       {
         "name": "하이플생명과학(주)",
@@ -23,7 +23,7 @@
       },
       {
         "name": "중국",
-        "count": 67
+        "count": 68
       },
       {
         "name": "대만",
@@ -101,6 +101,17 @@
       }
     ],
     "recent": [
+      {
+        "DMF_PERMIT_NO": "20260929-211-J-2292",
+        "INGR_KOR_NAME": "아스코르브산",
+        "ENTP_NAME": "㈜하이플",
+        "MNFCTR_NAME": "Luwei Pharmaceutical Group Co., Ltd.",
+        "MNFCTR_PLACE": "ShuangFeng Industrial Park, Zichuan District, Zibo City, Shandong, China",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-09-29",
+        "BIZRNO": "4338600179",
+        "NOTICE_CODE": ""
+      },
       {
         "DMF_PERMIT_NO": "수30-12-ND",
         "INGR_KOR_NAME": "에베로리무스",
@@ -309,17 +320,6 @@
         "DMF_PERMIT_DATE": "2026-04-23",
         "BIZRNO": "4338600179",
         "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "수6580-16-ND(19)",
-        "INGR_KOR_NAME": "프레가발린",
-        "ENTP_NAME": "㈜하이플",
-        "MNFCTR_NAME": "CTX Lifesciences Pvt. Ltd.",
-        "MNFCTR_PLACE": "Block No.-251/B, 252/B, 253, 254, 255, 256, 258/B, 276, 277, 278/P, 279, 280, 281, 282, 283/P, 284/P, Sachin G.I.D.C., Near Gabheni Chokdi, City-Sachin, Dist.-Surat, Gujarat-394 230, India",
-        "MANUF_COUNTRY_CODE_NM": "인도",
-        "DMF_PERMIT_DATE": "2026-04-23",
-        "BIZRNO": "4338600179",
-        "NOTICE_CODE": "신물질"
       }
     ]
   },
@@ -1984,6 +1984,17 @@
       "DMF_PERMIT_DATE": "2026-09-09",
       "BIZRNO": "4338600179",
       "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": "20260929-211-J-2292",
+      "INGR_KOR_NAME": "아스코르브산",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Luwei Pharmaceutical Group Co., Ltd.",
+      "MNFCTR_PLACE": "ShuangFeng Industrial Park, Zichuan District, Zibo City, Shandong, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-09-29",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": ""
     }
   ]
 }
