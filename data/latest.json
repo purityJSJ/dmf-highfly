@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-20T03:43:49.251Z",
-  "totalCount": 152,
-  "fetchedCount": 152,
+  "generatedAt": "2026-10-21T03:35:13.771Z",
+  "totalCount": 153,
+  "fetchedCount": 153,
   "summary": {
     "uniqueCompanies": 2,
     "uniqueCountries": 12,
-    "uniqueIngredients": 130,
+    "uniqueIngredients": 131,
     "topCompanies": [
       {
         "name": "㈜하이플",
-        "count": 151
+        "count": 152
       },
       {
         "name": "하이플생명과학(주)",
@@ -23,7 +23,7 @@
       },
       {
         "name": "중국",
-        "count": 68
+        "count": 69
       },
       {
         "name": "대만",
@@ -101,6 +101,17 @@
       }
     ],
     "recent": [
+      {
+        "DMF_PERMIT_NO": "20261020---12298-21",
+        "INGR_KOR_NAME": "에제티미브(미분화)",
+        "ENTP_NAME": "㈜하이플",
+        "MNFCTR_NAME": "Zhejiang Tianyu Pharmaceutical Co., Ltd.",
+        "MNFCTR_PLACE": "No.15, Donghai 5th Avenue, Zhejiang Provincial Chemical and Medical Raw Materials Base Linhai Zone, Taizhou City, Zhejiang Province 317016, China",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-10-20",
+        "BIZRNO": "4338600179",
+        "NOTICE_CODE": ""
+      },
       {
         "DMF_PERMIT_NO": "20260929-211-J-2292",
         "INGR_KOR_NAME": "아스코르브산",
@@ -306,17 +317,6 @@
         "MNFCTR_NAME": "Aragen Life Sciences Pvt. Ltd",
         "MNFCTR_PLACE": "Plot No. 28A, IDA Nacharam, Hyderabad, India, Nacharam(V), Uppal(M), Medchal–Malkajgiri(D), Telangana State, India",
         "MANUF_COUNTRY_CODE_NM": "인도",
-        "DMF_PERMIT_DATE": "2026-04-23",
-        "BIZRNO": "4338600179",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20240501-211-J-1642(1)",
-        "INGR_KOR_NAME": "미분화프로게스테론",
-        "ENTP_NAME": "㈜하이플",
-        "MNFCTR_NAME": "Pharmacia & Upjohn Company LLC",
-        "MNFCTR_PLACE": "7000 Portage Road, Kalamazoo, Michigan 49001, USA",
-        "MANUF_COUNTRY_CODE_NM": "미국",
         "DMF_PERMIT_DATE": "2026-04-23",
         "BIZRNO": "4338600179",
         "NOTICE_CODE": "별표1"
@@ -1995,6 +1995,17 @@
       "DMF_PERMIT_DATE": "2026-09-29",
       "BIZRNO": "4338600179",
       "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20261020---12298-21",
+      "INGR_KOR_NAME": "에제티미브(미분화)",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Zhejiang Tianyu Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "No.15, Donghai 5th Avenue, Zhejiang Provincial Chemical and Medical Raw Materials Base Linhai Zone, Taizhou City, Zhejiang Province 317016, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-10-20",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": ""
     }
   ]
 }
