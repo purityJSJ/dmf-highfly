@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T03:35:13.771Z",
+  "generatedAt": "2026-10-22T03:35:16.192Z",
   "totalCount": 153,
   "fetchedCount": 153,
   "summary": {
@@ -102,7 +102,7 @@
     ],
     "recent": [
       {
-        "DMF_PERMIT_NO": "20261020---12298-21",
+        "DMF_PERMIT_NO": "수695-21-ND(G)",
         "INGR_KOR_NAME": "에제티미브(미분화)",
         "ENTP_NAME": "㈜하이플",
         "MNFCTR_NAME": "Zhejiang Tianyu Pharmaceutical Co., Ltd.",
@@ -110,7 +110,7 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-10-20",
         "BIZRNO": "4338600179",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "신물질"
       },
       {
         "DMF_PERMIT_NO": "20260929-211-J-2292",
@@ -1997,7 +1997,7 @@
       "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": "20261020---12298-21",
+      "DMF_PERMIT_NO": "수695-21-ND(G)",
       "INGR_KOR_NAME": "에제티미브(미분화)",
       "ENTP_NAME": "㈜하이플",
       "MNFCTR_NAME": "Zhejiang Tianyu Pharmaceutical Co., Ltd.",
@@ -2005,7 +2005,7 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-10-20",
       "BIZRNO": "4338600179",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "신물질"
     }
   ]
 }
