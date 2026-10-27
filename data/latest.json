@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-26T03:32:59.304Z",
-  "totalCount": 153,
-  "fetchedCount": 153,
+  "generatedAt": "2026-10-27T03:58:21.394Z",
+  "totalCount": 154,
+  "fetchedCount": 154,
   "summary": {
     "uniqueCompanies": 2,
     "uniqueCountries": 12,
-    "uniqueIngredients": 131,
+    "uniqueIngredients": 132,
     "topCompanies": [
       {
         "name": "㈜하이플",
-        "count": 152
+        "count": 153
       },
       {
         "name": "하이플생명과학(주)",
@@ -19,7 +19,7 @@
     "topCountries": [
       {
         "name": "인도",
-        "count": 74
+        "count": 75
       },
       {
         "name": "중국",
@@ -101,6 +101,17 @@
       }
     ],
     "recent": [
+      {
+        "DMF_PERMIT_NO": null,
+        "INGR_KOR_NAME": "폴리스티렌설폰산칼슘",
+        "ENTP_NAME": "㈜하이플",
+        "MNFCTR_NAME": "Phaex Polymers Private Limited",
+        "MNFCTR_PLACE": "Plot F 10, MIDC Murbad Thane 421401 Maharashtra State, India ",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-10-26",
+        "BIZRNO": "4338600179",
+        "NOTICE_CODE": ""
+      },
       {
         "DMF_PERMIT_NO": "수695-21-ND(G)",
         "INGR_KOR_NAME": "에제티미브(미분화)",
@@ -307,17 +318,6 @@
         "MNFCTR_PLACE": "Sy.No. 10, Gaddapotharam Village, Jinnaram Mandal, Sangareddy District, Telangana State, India",
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-04-28",
-        "BIZRNO": "4338600179",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20220222-210-J-1240(2)",
-        "INGR_KOR_NAME": "도부타민염산염",
-        "ENTP_NAME": "㈜하이플",
-        "MNFCTR_NAME": "Aragen Life Sciences Pvt. Ltd",
-        "MNFCTR_PLACE": "Plot No. 28A, IDA Nacharam, Hyderabad, India, Nacharam(V), Uppal(M), Medchal–Malkajgiri(D), Telangana State, India",
-        "MANUF_COUNTRY_CODE_NM": "인도",
-        "DMF_PERMIT_DATE": "2026-04-23",
         "BIZRNO": "4338600179",
         "NOTICE_CODE": "별표1"
       }
@@ -2006,6 +2006,17 @@
       "DMF_PERMIT_DATE": "2026-10-20",
       "BIZRNO": "4338600179",
       "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": null,
+      "INGR_KOR_NAME": "폴리스티렌설폰산칼슘",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Phaex Polymers Private Limited",
+      "MNFCTR_PLACE": "Plot F 10, MIDC Murbad Thane 421401 Maharashtra State, India ",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-10-26",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": ""
     }
   ]
 }
