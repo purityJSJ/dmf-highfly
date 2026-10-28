@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T03:58:21.394Z",
+  "generatedAt": "2026-10-28T04:22:03.507Z",
   "totalCount": 154,
   "fetchedCount": 154,
   "summary": {
@@ -102,7 +102,7 @@
     ],
     "recent": [
       {
-        "DMF_PERMIT_NO": null,
+        "DMF_PERMIT_NO": "20261026-211-J-2321",
         "INGR_KOR_NAME": "폴리스티렌설폰산칼슘",
         "ENTP_NAME": "㈜하이플",
         "MNFCTR_NAME": "Phaex Polymers Private Limited",
@@ -110,7 +110,7 @@
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-10-26",
         "BIZRNO": "4338600179",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
         "DMF_PERMIT_NO": "수695-21-ND(G)",
@@ -2008,7 +2008,7 @@
       "NOTICE_CODE": "신물질"
     },
     {
-      "DMF_PERMIT_NO": null,
+      "DMF_PERMIT_NO": "20261026-211-J-2321",
       "INGR_KOR_NAME": "폴리스티렌설폰산칼슘",
       "ENTP_NAME": "㈜하이플",
       "MNFCTR_NAME": "Phaex Polymers Private Limited",
@@ -2016,7 +2016,7 @@
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2026-10-26",
       "BIZRNO": "4338600179",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     }
   ]
 }
