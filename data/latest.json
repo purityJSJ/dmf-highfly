@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-24T08:43:42.862Z",
-  "totalCount": 154,
-  "fetchedCount": 154,
+  "generatedAt": "2026-11-25T07:18:09.029Z",
+  "totalCount": 155,
+  "fetchedCount": 155,
   "summary": {
     "uniqueCompanies": 2,
     "uniqueCountries": 12,
-    "uniqueIngredients": 132,
+    "uniqueIngredients": 133,
     "topCompanies": [
       {
         "name": "㈜하이플",
-        "count": 153
+        "count": 154
       },
       {
         "name": "하이플생명과학(주)",
@@ -23,7 +23,7 @@
       },
       {
         "name": "중국",
-        "count": 69
+        "count": 70
       },
       {
         "name": "대만",
@@ -101,6 +101,17 @@
       }
     ],
     "recent": [
+      {
+        "DMF_PERMIT_NO": "20251128-129-H-456-66(1)",
+        "INGR_KOR_NAME": "클로피도그렐황산수소염",
+        "ENTP_NAME": "㈜하이플",
+        "MNFCTR_NAME": "Huizhou Salubris Pharmaceuticals Co., Ltd.",
+        "MNFCTR_PLACE": "No. 42, West Petrochemical Avenue, Daya Bay Economic and Technological Development Zone, Huizhou City, Guangdong Province, P.R. China",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-11-24",
+        "BIZRNO": "4338600179",
+        "NOTICE_CODE": ""
+      },
       {
         "DMF_PERMIT_NO": "20261026-211-J-2321",
         "INGR_KOR_NAME": "폴리스티렌설폰산칼슘",
@@ -307,17 +318,6 @@
         "MNFCTR_PLACE": "Tenuta S. Alessandro 13048 Santhia (VC), Italy,Parc Industriel d'Incarville, Parc de la Fringale, CS 10606 Val De Reuil (Cedex) 27106, France",
         "MANUF_COUNTRY_CODE_NM": "이탈리아,프랑스",
         "DMF_PERMIT_DATE": "2026-05-07",
-        "BIZRNO": "4338600179",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20220324-209-J-1154(2)",
-        "INGR_KOR_NAME": "펙소페나딘염산염",
-        "ENTP_NAME": "㈜하이플",
-        "MNFCTR_NAME": "M/S.Virupaksha Organics Ltd",
-        "MNFCTR_PLACE": "Sy.No. 10, Gaddapotharam Village, Jinnaram Mandal, Sangareddy District, Telangana State, India",
-        "MANUF_COUNTRY_CODE_NM": "인도",
-        "DMF_PERMIT_DATE": "2026-04-28",
         "BIZRNO": "4338600179",
         "NOTICE_CODE": "별표1"
       }
@@ -2017,6 +2017,17 @@
       "DMF_PERMIT_DATE": "2026-10-26",
       "BIZRNO": "4338600179",
       "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20251128-129-H-456-66(1)",
+      "INGR_KOR_NAME": "클로피도그렐황산수소염",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Huizhou Salubris Pharmaceuticals Co., Ltd.",
+      "MNFCTR_PLACE": "No. 42, West Petrochemical Avenue, Daya Bay Economic and Technological Development Zone, Huizhou City, Guangdong Province, P.R. China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-11-24",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": ""
     }
   ]
 }
