@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T07:18:09.029Z",
+  "generatedAt": "2026-11-26T07:07:20.682Z",
   "totalCount": 155,
   "fetchedCount": 155,
   "summary": {
@@ -110,7 +110,7 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-11-24",
         "BIZRNO": "4338600179",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
         "DMF_PERMIT_NO": "20261026-211-J-2321",
@@ -2027,7 +2027,7 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-11-24",
       "BIZRNO": "4338600179",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     }
   ]
 }
